@@ -1,4 +1,4 @@
-# [Gamemakin](https://gamemak.in) UE4 Style Guide() {
+# [Gamemakin](https://gamemak.in) UE5 Style Guide() {
 
 *A mostly reasonable approach to Unreal Engine 5*
 
@@ -10,7 +10,6 @@ Heavily inspired by the [Airbnb Javascript Style Guide](https://github.com/airbn
 
 This repo is now located at https://github.com/Allar/ue5-style-guide. The default branch of this repository has been renamed `main`.
 
-## This is currently for UE4. For UE5/v2, see the v2 branch
 ## Linter and Style Guide Documentation
 
 More technical documentation regarding Linter and the Style Guide can be found at our [ReadTheDocs](https://ue4-style-guide.readthedocs.io/en/latest/) page.
